@@ -51,7 +51,7 @@ Sample Output
 Below is a sample prediction from the FireNet-UNet model showing segmented crop rows:
 
 <p align="center">
-  <img src="sample_output/test_sample.png" alt="Crop Row Segmentation Sample" width="600"/>
+  <img src="sample_output/image.png" alt="Crop Row Segmentation Sample" width="600"/>
 </p>
 
 ---
